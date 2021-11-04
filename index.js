@@ -89,9 +89,9 @@ const tmp_hit = JSON.parse(fs.readFileSync('./src/hit.json'))
 const tmphit = JSON.parse(fs.readFileSync('./src/today.json'))
 //******************** 》Setting《 ********************\\
 menusimpel = false
-owner = "6281804680327@s.whatsapp.net"
-ownerN = "6281804680327"
-setgrup = "6281226770537-1606097314@g.us"
+owner = "6283872277426@s.whatsapp.net"
+ownerN = "6283872277426"
+setgrup = "6283872277426-1606097314@g.us"
 wa = '0@s.whatsapp.net'
 blocked = []
 public = true
